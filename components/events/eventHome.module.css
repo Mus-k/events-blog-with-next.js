@@ -36,7 +36,7 @@
 @media screen and (max-width: 900px) {
   .homeTitle {
     margin-top: 180px;
-color: white;
+    color: white;
     font-size: 50px;
     font-weight: 600;
     margin-left: 50px;
@@ -64,7 +64,7 @@ color: white;
 
     font-size: 30px;
     font-weight: 600;
-    margin-left: 50px;
+    margin-left: 20px;
   }
 
   .homeText {
@@ -72,7 +72,7 @@ color: white;
     color: white;
     /* background-color: white; */
     font-size: 20px;
-    margin-left: 50px;
+    margin-left: 20px;
     margin-top: 80px;
     line-height: 20px;
     width: 80%;
